@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.admin-main{
+    width: 100vw;
+    height: 100vh;
+    border: 1px solid red;
+}
+
+.login-btn-div {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 3rem;
+    /* border: 1px solid red; */
+}
